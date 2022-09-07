@@ -25,9 +25,9 @@ export default function ElevatorByIdPage(props) {
     return (
         <View style={styles.container}>
             <Text>Elevator</Text>
-            <Text>serialNumber : {serialNumber}</Text>
-            <Text>serialNumber : {model}</Text>
-            <Text>serialNumber : {status}</Text>
+            <Text>Serial Number : {serialNumber}</Text>
+            <Text>Model : {model}</Text>
+            <Text>Status : {status}</Text>
             <Button onPress={() =>
             {
                 updateElevatorStatus()
