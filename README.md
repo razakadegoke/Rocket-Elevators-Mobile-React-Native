@@ -1,4 +1,7 @@
-# Rocket Elevator React Native
+# Rocket Elevator React Native App
+
+With this app Rocket Elevators employees can have access to all elevators that are inactive 
+and when they finish their maintenance they can change the status of an elevator to actif in the database.
 
 ## Key Features
 
